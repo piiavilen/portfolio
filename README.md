@@ -8,7 +8,7 @@ Projekti toteutettiin 3 hengen ryhmässä osana Itä-Suomen yliopiston robotiikk
 
 Robotti toteutettiin käyttämällä **Arduino Uno** -mikrokontrolleria sekä erilaisia sensoreita, koodi toteutettiin **C++** -kielellä Arduino IDE ohjelmalla.
 
-Projekti oli todella opettavainen, ja siinä missä itse robotin suunnittelu sekä rakentaminen oli lopulta melko yksiviivaista, niin eniten oppimiskokemuksia tuli ehdottomasti ongelmanratkaisussa, kun törmättiin jatkuvaan pientä hienosäätöä sekä myös uusia ratkaisuja vaativiin pienempiin ja isompiin ongelmiin. 
+Projekti oli todella opettavainen, ja siinä missä itse robotin suunnittelu sekä rakentaminen oli lopulta melko yksiviivaista, niin paljon oppimiskokemuksia tuli ehdottomasti myös ongelmanratkaisussa, kun törmättiin jatkuvaan pientä hienosäätöä sekä myös uusia ratkaisuja vaativiin pienempiin ja isompiin ongelmiin. Iso osa oppimiskokemusta oli kuitenkin myös tutustuminen mikrokontrollereihin, niiden toimintaan, virtapiirien kytkentöihin, sensoreihin, algoritmeihin.
 
 
 
